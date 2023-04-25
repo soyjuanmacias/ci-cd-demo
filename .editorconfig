@@ -1,26 +1,5 @@
-{
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[html]": {
-    "editor.linkedEditing": true,
-    "editor.defaultFormatter": "vscode.html-language-features"
-  },
-  "files.autoSave": "off",
-  "files.insertFinalNewline": true,
-  "editor.formatOnPaste": true,
-  "editor.formatOnSave": true,
-  "editor.tabSize": 2,
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact",
-    "typescript": "typescriptreact"
-  },
-  "emmet.triggerExpansionOnTab": true,
-  "javascript.suggestionActions.enabled": false,
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "js/ts.implicitProjectConfig.experimentalDecorators": true,
-  "rainbowTags.hightlightType": "color",
-  "typescript.suggestionActions.enabled": false,
-  "typescript.updateImportsOnFileMove.enabled": "always"
-}
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+insert_final_newline = true
